@@ -2,7 +2,6 @@
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 #include "driver/gpio.h"
-#include "esp_system.h"
 
 #define LED_BUILTIN 2
 #define LED_GREEN   4
